@@ -1,0 +1,6 @@
+
+
+
+&c
+
+circle for components that make up artifacts. may be best to delete everythin between [] or <>

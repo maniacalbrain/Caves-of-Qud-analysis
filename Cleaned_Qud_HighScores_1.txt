@@ -1,0 +1,55 @@
+Goethe II	Thursday, August 13, 2015  6:04:58 PM	20th of Uru Ux	Wahmahcalcalit	0	0	lase beam	0	0		48753	35235	260	1	HE Missile		
+Kant XVIII	Sunday, August 30, 2015  7:34:00 PM	27th of Tuum Ut	chute crab	1	2	crab claw	7	1d2	40178	37145	222	1	Fix-It spray foam x2		
+O'Brien III	Wednesday, September 02, 2015  3:50:10 AM	6th of Tebet Ux	Kumukokumu the Stylish, legendary ogre ape	8	51	ape fist 	20	3d3	20556	21114	130	0	force bracelet 0 0 <> [no cell]		
+Kant XII	Friday, August 28, 2015  11:14:48 PM	7th of Iyur Ut	Putus Templar warden	1	3	folded carbide long sword	9	2d5	17061	17066	118	0	electrobow <> ->10 1d6 [no cell]		
+Nietzsche III	Wednesday, August 05, 2015  8:00:46 PM	19th of Tishru ii Ux	eyeless king crab	6	20	massive king crab claw	20	1d6	16607	16124	115	0	ubernostrum injector <>		
+Kant XI	Thursday, August 27, 2015  11:14:09 PM	12th of Uru Ux	scalding steam	0	0	scalding steam	0	0	9971	11105	60	0	Fix-It spray foam		
+Kant VIII	Thursday, August 27, 2015  8:01:17 PM	23rd of Tishru i Ux	scalding steam	0	0	scalding steam	0	0	7848	7719	35	0	Fix-It spray foam		
+Kant V	Surday, August 22, 2015  6:22:36 PM	28th of Tishru i Ux	unknown	0	0	unknown	0	0	6662	8118	47	0	semi-automatic pistol x2 <> ->8 1d6 [Empty]		
+O'Brien II	Wednesday, September 02, 2015  12:53:32 AM	23rd of Nivvun Ut	Duhmahcaluhcal	0	0	lase beam	0	0		5471	6356	42	0	stun gas grenade mk I		
+Kant XVII	Surday, August 29, 2015  1:44:21 AM	27th of Tishru ii Ux	unknown	0	0	unknown	0	0	3169	7239	37	0	compass bracelet 0 0		
+Kant	Friday, August 21, 2015  11:08:22 PM	12th of Tuum Ut	giant amoeba	2	4	giant pseudopod	10	1d3	2372	3013	21	0	no artifact		
+Kant XIII	Surday, August 29, 2015  12:05:24 AM	5th of Tebet Ux	girshling	1	6	claw	2	1d6	1849	2853	18	0	pump shotgun ->8 1d2 [shotgun shell]		
+Khrushchev VIII	Sunday, August 02, 2015  6:19:47 PM	5th of Tuum Ut	bleeding	0	0	bleeding	0	0	1760	4198	25	0	no artifact		
+Nietzsche	Tuesday, August 04, 2015  8:18:00 PM	17th of Tuum Ut	horned chameleon	1	4	Tusks	4	2d3	1503	3719	27	0	no artifact		
+Kant IV	Surday, August 22, 2015  12:00:38 AM	28th of Iyur Ut	snapjaw scavenger	1	6	steel battle axe	3	1d6	1393	3347	16	0	acid gas grenade mk I		
+Khrushchev XI	Monday, August 03, 2015  3:18:32 PM	Khrushchev XI  died on the 20th of Kisu Ux	unknown	0	0	unknown	0	0	1136	4121	21	0	blaze injector		
+Lenin	Surday, August 01, 2015  4:08:30 PM	13th of Iyur Ut	equimax	3	9	bite	8	2d2	902	1019	12	0	no artifact		
+Khrushchev	Sunday, August 02, 2015  3:52:52 PM	10th of Tishru ii Ux	Groubuubu-wof-wofuz, the stalwart Snapjaw Tot-eater	2	11	carbide battle axe	5	2d3	708	2789	21	0	no artifact		
+Kant X	Thursday, August 27, 2015  9:17:34 PM	8th of Kisu Ux	cave spider	1	2	fangs	2	1d2	265	2287	16	0	no artifact		
+O'Brien IV	Wednesday, September 02, 2015  12:47:21 PM	Ides of Uru Ux	salthopper	3	7	rending mandibles	11	1d4	199	1810	14	0	semi-automatic pistol ->8 1d6 [Empty]		
+Khrushchev II	Sunday, August 02, 2015  4:13:32 PM	17th of Uru Ux	bleeding	0	0	bleeding	0	0	13	1640	9	0	no artifact		
+Stalin	Surday, August 01, 2015  3:28:05 PM	27th of Uru Ux	salthopper	3	9	rending mandibles	11	1d4	-71	3412	30	0	no artifact		
+Kant IX	Thursday, August 27, 2015  8:51:15 PM	2nd of Iyur Ut	jilted lover	1	2	thorns	5	1d4	-80	1807	13	0	acid gas grenade mk I x2		
+Khrushchev VI	Sunday, August 02, 2015  5:12:49 PM	11th of Tuum Ut	fire ant	0	0	flames	0	0		-126	1705	21	0	no artifact		
+Stalin	Surday, August 01, 2015  3:41:26 PM	1st of Tishru i Ux	explosion	0	0	explosion	0	0	-224	1061	8	0	no artifact		
+Kant VII	Thursday, August 27, 2015  4:50:50 PM	22nd of Uulu Ut	unknown	0	0	unknown	0	0	-243	770	8	0	no artifact		
+Kant XIV	Surday, August 29, 2015  12:23:09 AM	29th of Tuum Ut	bleeding	0	0	bleeding	0	0	-367	2230	14	0	no artifact		
+Kant XV	Surday, August 29, 2015  12:42:44 AM	24th of Nivvun Ut	unknown	0	0	unknown	0	0	-434	1332	10	0	no artifact		
+Khrushchev	Sunday, August 02, 2015  2:13:37 PM	13th of Uru Ux	bleeding	0	0	bleeding	0	0	-531	1863	17	0	no artifact		
+Napolen III	Monday, August 03, 2015  4:20:16 PM	20th of Shwut Ux	dawnglider	0	0	fire	0	0	-543	1773	16	0	no artifact		
+Napoleon	Monday, August 03, 2015  3:41:37 PM	19th of Uulu Ut	bleeding	0	0	bleeding	0	0	-547	1536	11	0	no artifact		
+Napoleon II	Monday, August 03, 2015  3:57:39 PM	22nd of Tishru i Ux	bleeding	0	0	bleeding	0	0	-590	1298	11	0	no artifact		
+O'Brien V	Wednesday, September 02, 2015  12:58:51 PM	17th of Nivvun Ut	unknown	0	0	unknown	0	0	-618	1538	14	0	no artifact		
+Kant VI	Thursday, August 27, 2015  4:36:27 PM	14th of Shwut Ux	young ivory	0	0	impalement	0	0		-911	613	7	0	no artifact		
+Khrushchev V	Sunday, August 02, 2015  4:45:07 PM	19th of Uulu Ut	salthopper	4	10	rending mandibles	10	1d4	-918	510	6	0	no artifact		
+Khrushchev IV	Sunday, August 02, 2015  4:35:26 PM	21st of Nivvun Ut	snapjaw scavenger	1	1	iron dagger	2	1d4	-936	1134	12	0	no artifact		
+Kant II	Friday, August 21, 2015  11:23:56 PM	12th of Shwut Ux	scrap shoveler	5	8	scrap shovel	15	1d2	-986	720	6	0	no artifact		
+Malenkov	Surday, August 01, 2015  4:35:17 PM	14th of Tuum Ut	napjaw scavenger	0	0	explosion	0	0		-1004	911	12	0	no artifact		
+Kant XVI	Surday, August 29, 2015  12:46:03 AM	3rd of Uulu Ut	equimax	2	5	bite	9	2d2	-1120	401	5	0	no artifact		
+Khrushchev VII	Sunday, August 02, 2015  5:17:56 PM	27th of Uru Ux	salamander	1	3	bite	3	1d3	-1127	403	5	0	no artifact		
+Stalin	Surday, August 01, 2015  2:04:38 PM	20th of Nivvun Ut	Umchuum	2	4	Umumerchacal	0	0	-1131	362	3	0	poison gas grenade mk I		
+Khrushchev IX	Monday, August 03, 2015  1:56:40 PM	18th of Tishru i Ux	bleeding	0	0	bleeding	0	0	-1143	336	4	0	no artifact		
+Malenkov	Surday, August 01, 2015  4:18:54 PM	13th of Tishru i Ux	Ruf-ohoubub, the stalwart Snapjaw Bear-baiter	2	10	bronze two-handed sword	4	1d8	-1155	687	8	0	no artifact		
+Napoleon IV	Monday, August 03, 2015  4:28:33 PM	25th of Uulu Ut	salthopper	2	5	rending mandibles	10	1d4	-1171	275	4	0	no artifact		
+O'Brien	Wednesday, September 02, 2015  12:03:29 AM	9th of Nivvun Ut	unknown	0	0	unknown	0	0	-1174	287	5	0	no artifact		
+Napoleon V	Monday, August 03, 2015  4:31:59 PM	22nd of Ubu Ut	bleeding	0	0	bleeding	0	0	-1175	320	3	0	no artifact		
+Khrushchev X	Monday, August 03, 2015  1:59:50 PM	9th of Tishru ii Ux	unknown	0	0	unknown	0	0	-1209	287	4	0	no artifact		
+Kant II	Friday, August 21, 2015  11:14:45 PM	28th of Ubu Ut	snapjaw hunter	3	16	bronze two-handed sword	4	1d8	-1214	145	4	0	no artifact		
+Nietzsche II	Tuesday, August 04, 2015  8:25:57 PM	9th of Simmun Ut	jilted lover	2	3	thorns	5	1d4	-1246	136	3	0	no artifact		
+Kant III	Friday, August 21, 2015  11:25:01 PM	13th of Kisu Ux	bleeding	0	0	bleeding	0	0	-1252	105	3	0	no artifact		
+Goethe	Sunday, August 09, 2015  7:43:13 PM	Goethe  died on the 22nd of Tuum Ut	boar	2	6	bite	7	1d3	-1253	121	3	0	no artifact		
+Malenkov	Sunday, August 02, 2015  1:34:01 PM	9th of Tishru ii Ux	traipsing mortar	0	0	explosion	0	0		-1318	130	5	0	no artifact		
+Khrushchev III	Sunday, August 02, 2015  4:19:46 PM	1st of Nivvun Ut	scalding steam	0	0	scalding steam	0	0	-1351	324	4	0	no artifact		
+Game summary for	Friday, August 21, 2015  11:25:56 PM	died on the 8th of Nivvun Ut	Warden Ualraig	0	0	Freezes	0	0		-1451	19	1	0	no artifact		
+Napoleon	Monday, August 03, 2015  3:23:01 PM	18th of Tuum Ut	quit	0	0	quit	0	0	-1588	95	1	0	no artifact
